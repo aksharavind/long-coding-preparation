@@ -1,0 +1,17 @@
+ Library Management System
+Features to Implement:
+
+Add, update, and delete books.
+Issue books to users with return deadlines.
+Handle penalties for late returns.
+Exception handling for invalid operations (issuing unavailable books).
+Track book availability.
+
+
+* add books in the Library - completed
+* show the available books to the readers -completed
+* reader should select their necessary books -completed
+* after that book should removed from the library -completed
+* to show their return date -completed
+* if they returned add the books again back into the library -completed
+* if not at the time ,issue penalty
